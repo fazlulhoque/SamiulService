@@ -1,0 +1,6 @@
+c:\users\hoque\documents\visual studio 2013\Projects\SamiulService\SamiulService\obj\Debug\SamiulService.csprojResolveAssemblyReference.cache
+c:\users\hoque\documents\visual studio 2013\Projects\SamiulService\SamiulService\bin\SamiulService.dll.config
+c:\users\hoque\documents\visual studio 2013\Projects\SamiulService\SamiulService\bin\SamiulService.dll
+c:\users\hoque\documents\visual studio 2013\Projects\SamiulService\SamiulService\bin\SamiulService.pdb
+c:\users\hoque\documents\visual studio 2013\Projects\SamiulService\SamiulService\obj\Debug\SamiulService.dll
+c:\users\hoque\documents\visual studio 2013\Projects\SamiulService\SamiulService\obj\Debug\SamiulService.pdb
